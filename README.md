@@ -1,6 +1,6 @@
 # Chart Pattern Prediction (Identification)
 
-![Chart Patterns] (Patterns.png)
+![Chart Patterns](Patterns.png)
 
 ## Output
 
